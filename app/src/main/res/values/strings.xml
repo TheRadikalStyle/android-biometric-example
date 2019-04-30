@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fingerprint example</string>
+    <string name="authdialog_title"></string>
+    <string name="authdialog_description"></string>
+    <string name="text_positive_auth">Autenticado</string>
+    <string name="text_no_auth">No autenticado</string>
+    <string name="text_pressto_auth">No autenticado</string>
+    <string name="reset">Reset</string>
+</resources>

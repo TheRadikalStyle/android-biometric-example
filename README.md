@@ -2,4 +2,4 @@
 
 App example using android pie - Q biometric API
 
-[Screenshot](https://imgur.com/cIizKEX)
+![Screenshot](https://i.imgur.com/cIizKEXs.png?3)
